@@ -1,0 +1,6 @@
+# comment
+/out/
+/.idea/workspace.xml
+
+# mac bin
+.DS_Store
